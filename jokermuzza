@@ -1,9 +1,9 @@
 {
-    "JokTimeGameEnable": false,
-    "JokTimeGameLang": ["Russian"],
-    "JokTimeGameTimes": ["Yekaterinburg"],
+    "JokTimeGameEnable": true,
+    "JokTimeGameLang": ["Spanish"],
+    "JokTimeGameTimes": ["Buenos_Aires", "Argentina"],
     "JokTimeGameLinks": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://1wyvrz.life/casino/list?open=register&p=mapv"]}
     ]
  }
